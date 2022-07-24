@@ -1,5 +1,6 @@
 # Reddit-Bluemoon
-A Reddit theme for exercize, work in progress
+A Reddit theme for exercize, work in progress.
+
 Insert in userContent.css (at start) :
 @import url("reddit.css");
 
