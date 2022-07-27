@@ -5,5 +5,7 @@ Insert in userContent.css (at start) :
 
 @import url("RedditBluemoon.css");
 
-![firefox_GrGCB5nNyS](https://user-images.githubusercontent.com/40931468/175131452-232fd3db-35c6-431e-85db-ac1f539e7e6a.png)
-![TACtc0yXOd](https://user-images.githubusercontent.com/40931468/175131891-6a11b974-dff0-45d1-9a20-0a51d3417367.png)
+
+![firefox_u6qxb6MWGU](https://user-images.githubusercontent.com/40931468/181232116-8ceb9e32-3004-4d74-b3dc-477c68485144.png)
+![firefox_I67gfBMnUS](https://user-images.githubusercontent.com/40931468/181232131-346ba691-7a21-4322-9629-e43e81817339.png)
+![firefox_W3lnZjxAOe](https://user-images.githubusercontent.com/40931468/181232140-0d50f120-8ccb-42fe-99a8-ade0cdbc4c6c.png)
